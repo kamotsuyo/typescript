@@ -1,0 +1,5 @@
+{"compilerOptions": {
+	"target": "ES3",
+	"module": "commonjs",
+	"inlineSourceMap": 1
+}}
